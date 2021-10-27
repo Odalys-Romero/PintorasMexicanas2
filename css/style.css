@@ -1,0 +1,49 @@
+body{
+    margin: 0; 
+    padding: 0;
+    background-color: #a16296;
+}
+
+#icon,
+#title{
+    display: inline-block; 
+}
+
+#icon{
+    width: 20px
+}
+
+#title{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    font-style: italic;
+}
+
+#bannern{
+    width: 100%;
+}
+
+nav a{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+nav a:hover{
+    color: royalblue;
+    font-size: 1.5em;
+
+}
+
+
+div.picture, 
+div.bio{ 
+    width: 45%;
+    display: inline-block;
+}
+div.picture img{
+    width: 100%
+}
+div.bio p{
+    width: 100%;
+}
+footer p{
+    display: inline-block;
+}
